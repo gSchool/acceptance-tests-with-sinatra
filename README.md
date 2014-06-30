@@ -50,7 +50,6 @@ spec/features/homepage_spec.rb:
 
 1. Capybara Documentation: [http://rubydoc.info/github/jnicklas/capybara/master](http://rubydoc.info/github/jnicklas/capybara/master)
 1. Examples of the methods Capybara provides to interact with your web pages: [https://github.com/jnicklas/capybara#the-dsl](https://github.com/jnicklas/capybara#the-dsl)
-1. foo
 
 
 Common Capybara methods used:
