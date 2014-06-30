@@ -58,4 +58,5 @@ Common Capybara methods used:
 1. click_link  - click a link on the page
 1. expect(page).to have_content "content" - make sure that the word "content" is on the page
 1. save_and_open_page - see what HTML the test is seeing
-
+1. within - https://github.com/jnicklas/capybara#scoping
+1. have_css - https://github.com/jnicklas/capybara#querying
